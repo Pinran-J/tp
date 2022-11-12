@@ -3,7 +3,7 @@ layout: page
 title: Chee Zhong Wei's Project Portfolio Page
 ---
 
-###Project: SectresBook
+### Project: SectresBook
 
 SectresBook helps secretaries to maintain all the information of the members of their club by collating a list of identifiable information, past records and future tasks.
 
@@ -21,14 +21,14 @@ Given below are my contributions to the project.
       * The regular expression for `Birthday` includes checks for 29th February on leap years and invalid dates
     * Enhancement: Changed prefixes of properties
       * Changed prefixes of properties in commands to better differentiate them
-
+<br>
 
 * **Contributions to the UG:**
   * Editted section to include enchancements : `find`
     * Brief description and explanation
   * Added screenshots for different features
   * Wrote up the opening paragraph of the UG
-
+<br>
 
 * **Contributions to the DG:**
   * Added content to `find` feature section:
@@ -41,7 +41,7 @@ Given below are my contributions to the project.
     * Language use
     * Spelling mistakes
     * Formatting
-
+<br>
 
 * **Review/mentoring contributions**:
   * Read through, checked and approved team PRs.
